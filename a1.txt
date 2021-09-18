@@ -1,0 +1,4 @@
+﻿payload = {'category': 'file','config_map': '{"D:\LOG.txt":{"is_public":false}}'}
+files = [('sample', open('D:\LOG.txt','rb'))]
+
+Authorization	eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo5OTEsInVzZXJuYW1lIjoiMzYwVTMyOTYzNDk1NzEiLCJleHAiOjIzOTcxOTg5NjIsImVtYWlsIjoiMTAxNDI0MTQ3MkBxcS5jb20ifQ.B9zIeoeGCGQl81igZ9RNL6cYf9IkOlcS0fcEbRQU9Bc
