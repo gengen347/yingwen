@@ -1,0 +1,6 @@
+谷歌驱动：http://npm.taobao.org/mirrors/chromedriver/
+火狐：https://github.com/mozilla/geckodriver/releases
+IE：http://selenium-release.storage.googleapis.com/index.html
+Edge：https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+safari：https://developer.apple.com/safari/download/
+
